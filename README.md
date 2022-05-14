@@ -1,7 +1,6 @@
 <div style="height: 100vh;">
   <div>
     <h1 style="width: fit-content;">Hi, I am Shajith</h1>
-    <img src="./assets/avatar.png" alt="avatar">
     <div style="display: flex;">
       <div>
         <h2>Projects</h2>
@@ -26,39 +25,34 @@
     </div>
   </div>
   <h2>Connect</h2>
-  <div style="margin:3em">
-    <a href="https://twitter.com/Shajith_it_is"><img style="width: 20px;" src="./assets/twitter.png" alt="Twitter Logo">
-      <span>Twitter</span>
+  <div style="width: fit-content" style="display:flex !important">
+  <div style="width: fit-content" style="margin:3em">
+    <a style="width: fit-content" href="https://twitter.com/Shajith_it_is"><img style="width: 20px;" src="./assets/twitter.png" alt="Twitter Logo">
     </a>
   </div>
-  <div style="margin:3em">
-    <a href="https://shajith.blog.co.in"><img style="width: 20px;" src="./assets/hash-node.png" alt="Hashnode Logo">
-      <span>Hashnode</span>
+  <div style="width: fit-content" style="margin:3em">
+    <a style="width: fit-content" href="https://shajith.blog.co.in"><img style="width: 20px;" src="./assets/hash-node.png" alt="Hashnode Logo">
     </a>
   </div>
-  <div style="margin:3em">
+  <div style="width: fit-content" style="margin:3em">
     <a href="https://github.com/shajith-it-is"><img style="width: 20px;" src="./assets/github.png" alt="GitHub Logo">
-      <span>GitHub</span>
     </a>
   </div>
-  <div style="margin:3em">
+  <div style="width: fit-content" style="margin:3em">
     <a href="https://www.linkedin.com/in/shajithj"><img style="width: 20px;" src="./assets/linkedin.png" alt="LinkedIn Logo">
-      <span>LinkedIn</span>
     </a>
   </div>
-  <div style="margin:3em">
+  <div style="width: fit-content" style="margin:3em">
     <a href="https://www.instagram.com/shajith_it_is/"><img style="width: 20px;" src="./assets/instagram.png" alt="Instagram Logo">
-      <span>Instagram</span>
     </a>
   </div>
-  <div style="margin:3em">
+  <div style="width: fit-content" style="margin:3em">
     <a href="mailto://shajith.it.is@gmail.com"><img style="width: 20px;" src="./assets/gmail.png" alt="Gmail Logo">
-      <span>Mail</span>
     </a>
   </div>
-  <div style="margin:3em">
+  <div style="width: fit-content" style="margin:3em">
     <a style="width: fit-content;" href="https://www.buymeacoffee.com/shajith.it.is"><img style="width: 20px;" src="./assets/bmc.png" alt="Gmail Logo">
-      <span>Buy me a coffee</span>
     </a>
+  </div>
   </div>
 </div>
