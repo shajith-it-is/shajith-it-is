@@ -23,8 +23,6 @@ I am a Front-End Developer and a DevOps Engineer.
 <img style="width: 20px;" src="./assets/kubernetes.png" alt="Twitter Logo">
 <img style="width: 20px;" src="./assets/gcp.png" alt="Twitter Logo">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shajith-it-is&layout=compact&theme=radical)
-
 ## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shajith-it-is&theme=dark)](https://git.io/streak-stats)
 
