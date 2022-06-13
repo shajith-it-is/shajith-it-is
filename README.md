@@ -29,7 +29,5 @@ I am a Front-End Developer and a DevOps Engineer.
 <a href="https://twitter.com/Shajith_it_is"><img style="margin:1em;width: 20px;" src="./assets/twitter.png" alt="Twitter Logo"></a>
 <a href="https://blog.shajith.co.in"><img style="margin:1em;width: 20px;" src="./assets/hash-node.png" alt="Hashnode Logo"></a>
 <a href="https://github.com/shajith-it-is"><img style="margin:1em;width: 20px;" src="./assets/github.png" alt="GitHub Logo"></a>
-<a href="https://www.linkedin.com/in/shajithj"><img style="margin:1em;width: 20px;" src="./assets/linkedin.png" alt="LinkedIn Logo"></a>
-<a href="https://www.instagram.com/shajith_it_is/"><img style="margin:1em;width: 20px;" src="./assets/instagram.png" alt="Instagram Logo"></a>
 <a href="mailto://shajith.it.is@gmail.com"><img style="margin:1em;width: 20px;" src="./assets/gmail.png" alt="Gmail Logo"></a>
 <a href="https://www.buymeacoffee.com/shajith.it.is"><img style="margin:1em;width: 20px;" src="./assets/bmc.png" alt="Gmail Logo"></a>
