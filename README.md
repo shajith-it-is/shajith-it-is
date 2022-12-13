@@ -6,7 +6,7 @@ Full Stack dev and DevOps Engineer
 
 I started out my career with front-end development and then to DevOps and Full stack.
 
-* 🌍  I'm based in India
+* 🌍  From India
 * 🖥️  See my portfolio at [Shajith](http://shajith.co.in)
 * ✉️  You can contact me at [shajith.it.is@gmail.com](mailto:shajith.it.is@gmail.com)
 * 🚀  I'm currently working on [Dash](http://dashboard.shajith.co.in)
