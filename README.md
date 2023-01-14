@@ -9,8 +9,6 @@ I started out my career with front-end development and then to DevOps and Full s
 * 🌍  From India
 * 🖥️  See my portfolio at [Shajith](http://shajith.co.in)
 * ✉️  You can contact me at [shajith.it.is@gmail.com](mailto:shajith.it.is@gmail.com)
-* 🚀  I'm currently working on [Dash](http://dashboard.shajith.co.in)
-* 🧠  I'm learning AWS
 * ⚡  I write blogs on Hashnode, Medium and I also have a blog site powered with [Astro](https://blog.shajith.co.in).
 
 ### Skills
