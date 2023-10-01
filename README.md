@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack dev and DevOps Engineer
 ----------------------------------
 
-I started out my career with front-end development and then to DevOps and Full stack.
-
+A fullstack dev abd a devops engineer
 * 🌍  From India
 * 🖥️  See my portfolio at [Shajith](http://shajith.co.in)
 * ✉️  You can contact me at [shajith.it.is@gmail.com](mailto:shajith.it.is@gmail.com)
