@@ -2,7 +2,7 @@
 
 **Software Engineer · DevOps · Builder**
 
-I like building things — web apps, developer tools, small experiments, and occasionally businesses.
+I like building things - web apps, developer tools, small experiments, and occasionally businesses.
 
 Currently building **[AlifBay](https://alifbay.in)** and experimenting with ideas that usually start with *"what if we built this?"*
 
